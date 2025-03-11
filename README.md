@@ -4,7 +4,7 @@
 1. Агрегатор данных с API
 2. Система мониторинга пингов серверов
 
-- для безопасной работы с базой данных, все важные параметры были помещены в окружение среды ОС
+- для безопасной работы с базой данных все важные параметры были помещены в окружение среды ОС
 
 <div align="center">
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Golang" width="120" height="120"/>&nbsp;
